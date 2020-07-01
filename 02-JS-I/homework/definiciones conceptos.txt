@@ -1,0 +1,22 @@
+	* Variables
+    // las variables son como un estuche en donde guardamos algo para luego utilizarlo//
+
+	* Strings
+    // los strings son textos que siempre van en comillas//
+
+	* Funciones (argumentos, `return`)
+    // Las funciones son como máquinas de caramelos, en donde metemos una moneda para que poder obtenerlos//
+    // Ahora las funciones tienen argumentos, estas serían las monedas que introducimos en la máquina, ya que con ellas podemos hacer que funcione y asi nos entregue los caramelos o sea nos está retornando algo, a esto se le llama return en inglés//
+
+	* Declaraciones `if`
+    //if significa "si" en inglés, nos sirve para comprobar que la máquina de caramelos este funcionando//
+
+	* Valores booleanos (`true`, `false`)
+    // true es verdadero y false es falso. Ambas palabras nos ayudan a verificar el funcionamiento de la máquina. Por ejemplo: function maquinaCaramelos (moneda){
+        if (moneda === $100) {
+            return true;
+        } else { // 
+            return false;
+        }
+    }
+    // en el ejemplo anterior definimos la funcion como "maquinaCaramelos" y su argumento que es la "moneda". Si la moneda es de $100 se cumpliría lo declarado en if y por ende la máquina nos diría "true", de lo contrario nos diría "false".
