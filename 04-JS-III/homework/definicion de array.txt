@@ -1,0 +1,1 @@
+//Arrays --> significa arreglos en inglés. Nos permiten almacenar distintos de tipos ya sean númericos, string, funcione, etc.
