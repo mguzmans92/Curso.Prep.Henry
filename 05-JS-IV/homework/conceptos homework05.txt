@@ -1,0 +1,19 @@
+* Objetos
+// Son contenedores de datos a diferencia de los arreglos o matrices nos permiten contener mucha información de una cosa. En los objetos se usan los "key: value" (llave valor). Key es el identificador y value el valor que queremos guardar en ese identificador por ejemplo: usuario (key): 'pablo' (value) //
+
+* Propiedades
+// Son las características que les asignamos a los objetos por ejemplo: tenemos el objeto "auto" y sus propiedades serían marca, año, nombre//
+
+* Métodos
+// Son las funciones guardadas en un objeto//
+
+* Bucle `for…in`
+// For in es un bucle que utilizamos para recorrer cada clave del objeto y finaliza cuando ya se han escritos todas//
+
+* Notación de puntos vs notación de corchetes
+//Ambas nos permiten acceder a los valores de los objetos//
+
+Con la notación de puntos se llama al nombre del objeto colocando el nombre de este, un punto y el nombre de la clave por ejemplo: nombre.usuario; // pablo   
+
+En cambio con la notación de corchetes llamamos a la clave por medio de los corchetes y comillas por ejemplo: nombre.['usuario']; // pablo
+//
